@@ -1,7 +1,0 @@
-project_id = "kolmcuyorzrbdteqeysi"
-
-[functions.analyze-artwork]
-verify_jwt = true
-
-[functions.ai-assistant]
-verify_jwt = true
