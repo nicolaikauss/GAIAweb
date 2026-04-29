@@ -1,0 +1,294 @@
+{
+  "landing": {
+    "title": "Gaia Capital",
+    "subtitle": "Gaia Capital - Holding Family",
+    "description": "Manage your collection with AI-powered insights, reverse image search, and comprehensive reporting",
+    "signIn": "Sign In",
+    "viewDemo": "View Demo"
+  },
+  "gaiaLanding": {
+    "nav": {
+      "home": "Home",
+      "expertise": "Expertise",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "hero": {
+      "brand": "Gaia Capital",
+      "titleLine1": "\"Land is the only thing in the world that gets more valuable the less there is of it\"",
+      "titleLine2": "- Mark Twain",
+      "description": "A discreet and contemporary wealth approach designed to support important decisions over time.",
+      "morphTexts": [
+        "\"Land is the only thing in the world that gets more valuable the less there is of it\" - Mark Twain"
+      ]
+    },
+    "expertise": {
+      "eyebrow": "Expertise",
+      "title": "Three pillars\nof value creation",
+      "description": "A clear read of our capabilities to support long-term decision-making."
+    },
+    "about": {
+      "eyebrow": "About",
+      "title": "A culture of accuracy, built on trust.",
+      "description": "We favor measured choices, continuity in relationships, and a rigorous long-term perspective.",
+      "stats": {
+        "years": "Years of expertise",
+        "assets": "Assets managed",
+        "capital": "Family capital",
+        "note": "Reference data"
+      }
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Let us discuss your\nnext investment",
+      "description": "Share your context simply. We come back with a clear and confidential first framing."
+    },
+    "cta": {
+      "contact": "Get in touch",
+      "initiate": "Start a conversation",
+      "discover": "Discover our expertise",
+      "write": "Write to us",
+      "learnMore": "Learn more",
+      "bookMeeting": "Book a meeting"
+    },
+    "footer": {
+      "tagline": "Independent house. Absolute discretion."
+    }
+  },
+  "auth": {
+    "title": "Welcome Back",
+    "subtitle": "Sign in to your account",
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In",
+    "signingIn": "Signing in...",
+    "signInError": "Error signing in",
+    "signInSuccess": "Signed in successfully"
+  },
+  "dashboard": {
+    "title": "Gaia Capital Dashboard",
+    "subtitle": "Your central command for managing artwork, sales, and gallery performance with AI-powered insights.",
+    "aiPlaceholder": "Ask AI... (e.g., 'export all', 'statistics')",
+    "aiButton": "Ask AI",
+    "cards": {
+      "inventory": {
+        "title": "Inventory",
+        "description": "Browse and manage your gallery's collection."
+      },
+      "transactions": {
+        "title": "Transactions", 
+        "description": "Review sales history and analyze deal fairness."
+      },
+      "consignments": {
+        "title": "Consignments",
+        "description": "Monitor artwork on consignment agreements."
+      },
+      "reports": {
+        "title": "Reports",
+        "description": "Gain insights into gallery performance."
+      }
+    },
+    "logout": "Logout",
+    "howItWorks": "How It Works"
+  },
+  "inventory": {
+    "title": "Inventory",
+    "subtitle": "Browse and manage your gallery's collection",
+    "searchPlaceholder": "Search artworks...",
+    "addArtwork": "Add Artwork",
+    "importArtwork": "Import Artwork",
+    "exportArtwork": "Export Artwork",
+    "suggestedTags": "Suggested Tags",
+    "suggestedTagsDescription": "Tags determine where your artwork appears in the app. Click to filter by tag, drag onto artworks to add, or drag outside to remove from all artworks.",
+    "clearFilter": "Clear filter",
+    "noArtworks": "No artworks found",
+    "artwork": {
+      "title": "Title",
+      "artist": "Artist",
+      "year": "Year",
+      "medium": "Medium",
+      "price": "Price",
+      "status": "Status",
+      "edit": "Edit",
+      "delete": "Delete",
+      "viewDetails": "View Details"
+    }
+  },
+  "addArtwork": {
+    "title": "Add Artwork",
+    "subtitle": "Add a new artwork to your collection",
+    "back": "Back",
+    "save": "Save",
+    "cancel": "Cancel",
+    "saving": "Adding...",
+    "sections": {
+      "images": {
+        "title": "Artwork Images",
+        "subtitle": "Upload images of your artwork. The first image will be used as the main image.",
+        "clickToUpload": "Click to upload",
+        "dragAndDrop": "or drag and drop",
+        "fileTypes": "PNG, JPG, GIF up to 10MB each",
+        "mainImage": "Main Image",
+        "findSimilar": "Find Similar",
+        "addMore": "Add More"
+      },
+      "basicInfo": {
+        "title": "Basic Information",
+        "subtitle": "Essential details about the artwork",
+        "titleLabel": "Title",
+        "artistLabel": "Artist/Object",
+        "descriptionLabel": "Description",
+        "titlePlaceholder": "Enter artwork title",
+        "artistPlaceholder": "Enter artist or object name",
+        "descriptionPlaceholder": "Describe the artwork..."
+      },
+      "details": {
+        "title": "Artwork Details",
+        "subtitle": "Technical specifications and categorization",
+        "year": "Year",
+        "medium": "Medium",
+        "dimensions": "Dimensions",
+        "tags": "Tags",
+        "yearPlaceholder": "e.g., 2023",
+        "mediumPlaceholder": "e.g., Oil on canvas",
+        "dimensionsPlaceholder": "e.g., 24x36 inches",
+        "tagsPlaceholder": "abstract, oil, modern",
+        "tagsHelper": "Separate tags with commas"
+      },
+      "commercial": {
+        "title": "Commercial Information",
+        "subtitle": "Pricing, status, and location details",
+        "sellingPrice": "Selling Price",
+        "purchasePrice": "Purchase Price",
+        "status": "Status",
+        "location": "Location",
+        "pricePlaceholder": "0.00",
+        "locationPlaceholder": "Where is the artwork stored?",
+        "statusOptions": {
+          "available": "Available",
+          "sold": "Sold",
+          "consigned": "Consigned",
+          "reserved": "Reserved"
+        }
+      }
+    },
+    "success": "Artwork added successfully",
+    "error": "Error adding artwork"
+  },
+  "artworkDetails": {
+    "title": "Artwork Details",
+    "back": "Back",
+    "edit": "Edit",
+    "saveChanges": "Save Changes",
+    "cancel": "Cancel",
+    "saving": "Saving...",
+    "exportPdf": "Export to PDF",
+    "findSimilar": "Find Similar (Google)",
+    "aiAnalysis": "AI Analysis",
+    "analyzing": "Analyzing...",
+    "sections": {
+      "basicInfo": "Basic Information",
+      "details": "Artwork Details",
+      "commercial": "Commercial Information",
+      "tags": "Tags",
+      "description": "Description"
+    },
+    "fields": {
+      "title": "Title",
+      "artist": "Artist",
+      "description": "Description",
+      "year": "Year",
+      "price": "Price ($)",
+      "medium": "Medium",
+      "dimensions": "Dimensions",
+      "location": "Location",
+      "tags": "Tags (comma-separated)",
+      "status": "Status"
+    },
+    "placeholders": {
+      "dimensions": "e.g., 24 x 36 inches",
+      "tags": "abstract, modern, colorful"
+    },
+    "success": "Artwork updated successfully",
+    "error": "Error updating artwork"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "subtitle": "Review sales history and analyze deal fairness",
+    "searchPlaceholder": "Search transactions...",
+    "tabs": {
+      "purchases": "Purchases",
+      "sales": "Sales"
+    },
+    "noTransactions": "No transactions found",
+    "columns": {
+      "artwork": "Artwork",
+      "date": "Date",
+      "price": "Price",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "actions": {
+      "view": "View",
+      "edit": "Edit",
+      "delete": "Delete"
+    }
+  },
+  "consignments": {
+    "title": "Consignments",
+    "subtitle": "Manage artworks on consignment with galleries and artists",
+    "noConsignments": "No consignments found",
+    "columns": {
+      "artwork": "Artwork",
+      "gallery": "Gallery",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "commission": "Commission",
+      "status": "Status"
+    }
+  },
+  "reports": {
+    "title": "Reports",
+    "subtitle": "Gain insights into gallery performance",
+    "noReports": "No reports available"
+  },
+  "notFound": {
+    "title": "404 - Page Not Found",
+    "subtitle": "The page you're looking for doesn't exist",
+    "backHome": "Back to Home"
+  },
+  "language": {
+    "toggle": "Change language",
+    "english": "English",
+    "french": "Français"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "required": "Required",
+    "optional": "Optional",
+    "actions": "Actions",
+    "status": "Status",
+    "date": "Date",
+    "price": "Price",
+    "title": "Title",
+    "description": "Description",
+    "location": "Location",
+    "tags": "Tags",
+    "year": "Year",
+    "medium": "Medium",
+    "dimensions": "Dimensions",
+    "artist": "Artist"
+  }
+}

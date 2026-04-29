@@ -1,0 +1,291 @@
+{
+  "landing": {
+    "title": "Gaia Capital",
+    "subtitle": "Gaia Capital - Holding Family",
+    "description": "Gérez votre collection avec des insights alimentés par l'IA, la recherche d'images inversée et des rapports complets",
+    "signIn": "Se Connecter",
+    "viewDemo": "Voir la Démo"
+  },
+  "gaiaLanding": {
+    "nav": {
+      "home": "Accueil",
+      "expertise": "Expertise",
+      "about": "À propos",
+      "contact": "Contact"
+    },
+    "hero": {
+      "brand": "Gaia Capital",
+      "titleLine1": "La confiance,",
+      "titleLine2": "structurée avec précision",
+      "description": "Une approche patrimoniale sobre et contemporaine, conçue pour accompagner les décisions importantes dans la durée."
+    },
+    "expertise": {
+      "eyebrow": "Expertise",
+      "title": "Trois piliers\nde création de valeur",
+      "description": "Une lecture claire de nos expertises pour accompagner les décisions de long terme."
+    },
+    "about": {
+      "eyebrow": "À propos",
+      "title": "Une culture de la justesse, au service de la confiance.",
+      "description": "Nous privilégions les choix mesurés, la continuité de la relation et une lecture exigeante du temps long.",
+      "stats": {
+        "years": "Années d'expertise",
+        "assets": "Actifs gérés",
+        "capital": "Capital familial",
+        "note": "Données de référence"
+      }
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Parlons de votre\nprochain investissement",
+      "description": "Partagez votre contexte simplement. Nous revenons vers vous avec un cadrage clair et confidentiel."
+    },
+    "cta": {
+      "contact": "Prendre contact",
+      "initiate": "Initier un échange",
+      "discover": "Découvrir l'expertise",
+      "write": "Nous écrire",
+      "learnMore": "En savoir plus",
+      "bookMeeting": "Prendre Rendez-vous"
+    },
+    "footer": {
+      "tagline": "Maison indépendante. Discrétion absolue."
+    }
+  },
+  "auth": {
+    "title": "Bon Retour",
+    "subtitle": "Connectez-vous à votre compte",
+    "email": "Email",
+    "password": "Mot de passe",
+    "signIn": "Se Connecter",
+    "signingIn": "Connexion en cours...",
+    "signInError": "Erreur de connexion",
+    "signInSuccess": "Connecté avec succès"
+  },
+  "dashboard": {
+    "title": "Tableau de Bord Gaia Capital",
+    "subtitle": "Votre centre de commande pour gérer les œuvres d'art, les ventes et les performances de galerie avec des insights alimentés par l'IA.",
+    "aiPlaceholder": "Demandez à l'IA... (ex: 'exporter tout', 'statistiques')",
+    "aiButton": "Demander à l'IA",
+    "cards": {
+      "inventory": {
+        "title": "Inventaire",
+        "description": "Parcourez et gérez la collection de votre galerie."
+      },
+      "transactions": {
+        "title": "Transactions",
+        "description": "Examinez l'historique des ventes et analysez l'équité des transactions."
+      },
+      "consignments": {
+        "title": "Consignations",
+        "description": "Surveillez les œuvres d'art sous accord de consignation."
+      },
+      "reports": {
+        "title": "Rapports",
+        "description": "Obtenez des insights sur les performances de la galerie."
+      }
+    },
+    "logout": "Déconnexion",
+    "howItWorks": "Comment ça marche"
+  },
+  "inventory": {
+    "title": "Inventaire",
+    "subtitle": "Parcourez et gérez la collection de votre galerie",
+    "searchPlaceholder": "Rechercher des œuvres...",
+    "addArtwork": "Ajouter une Œuvre",
+    "importArtwork": "Importer des Œuvres",
+    "exportArtwork": "Exporter des Œuvres",
+    "suggestedTags": "Tags Suggérés",
+    "suggestedTagsDescription": "Les tags déterminent où votre œuvre apparaît dans l'app. Cliquez pour filtrer par tag, glissez sur les œuvres pour ajouter, ou glissez à l'extérieur pour supprimer de toutes les œuvres.",
+    "clearFilter": "Effacer le filtre",
+    "noArtworks": "Aucune œuvre trouvée",
+    "artwork": {
+      "title": "Titre",
+      "artist": "Artiste",
+      "year": "Année",
+      "medium": "Médium",
+      "price": "Prix",
+      "status": "Statut",
+      "edit": "Modifier",
+      "delete": "Supprimer",
+      "viewDetails": "Voir les Détails"
+    }
+  },
+  "addArtwork": {
+    "title": "Ajouter une Œuvre",
+    "subtitle": "Ajouter une nouvelle œuvre à votre collection",
+    "back": "Retour",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "saving": "Ajout en cours...",
+    "sections": {
+      "images": {
+        "title": "Images de l'Œuvre",
+        "subtitle": "Téléchargez des images de votre œuvre. La première image sera utilisée comme image principale.",
+        "clickToUpload": "Cliquez pour télécharger",
+        "dragAndDrop": "ou glissez-déposez",
+        "fileTypes": "PNG, JPG, GIF jusqu'à 10MB chacun",
+        "mainImage": "Image Principale",
+        "findSimilar": "Trouver Similaire",
+        "addMore": "Ajouter Plus"
+      },
+      "basicInfo": {
+        "title": "Informations de Base",
+        "subtitle": "Détails essentiels sur l'œuvre",
+        "titleLabel": "Titre",
+        "artistLabel": "Artiste/Objet",
+        "descriptionLabel": "Description",
+        "titlePlaceholder": "Entrez le titre de l'œuvre",
+        "artistPlaceholder": "Entrez le nom de l'artiste ou de l'objet",
+        "descriptionPlaceholder": "Décrivez l'œuvre..."
+      },
+      "details": {
+        "title": "Détails de l'Œuvre",
+        "subtitle": "Spécifications techniques et catégorisation",
+        "year": "Année",
+        "medium": "Médium",
+        "dimensions": "Dimensions",
+        "tags": "Tags",
+        "yearPlaceholder": "ex: 2023",
+        "mediumPlaceholder": "ex: Huile sur toile",
+        "dimensionsPlaceholder": "ex: 24x36 pouces",
+        "tagsPlaceholder": "abstrait, huile, moderne",
+        "tagsHelper": "Séparez les tags par des virgules"
+      },
+      "commercial": {
+        "title": "Informations Commerciales",
+        "subtitle": "Détails de prix, statut et localisation",
+        "sellingPrice": "Prix de Vente",
+        "purchasePrice": "Prix d'Achat",
+        "status": "Statut",
+        "location": "Localisation",
+        "pricePlaceholder": "0.00",
+        "locationPlaceholder": "Où est stockée l'œuvre ?",
+        "statusOptions": {
+          "available": "Disponible",
+          "sold": "Vendu",
+          "consigned": "Consigné",
+          "reserved": "Réservé"
+        }
+      }
+    },
+    "success": "Œuvre ajoutée avec succès",
+    "error": "Erreur lors de l'ajout de l'œuvre"
+  },
+  "artworkDetails": {
+    "title": "Détails de l'Œuvre",
+    "back": "Retour",
+    "edit": "Modifier",
+    "saveChanges": "Enregistrer les Modifications",
+    "cancel": "Annuler",
+    "saving": "Enregistrement...",
+    "exportPdf": "Exporter en PDF",
+    "findSimilar": "Trouver Similaire (Google)",
+    "aiAnalysis": "Analyse IA",
+    "analyzing": "Analyse en cours...",
+    "sections": {
+      "basicInfo": "Informations de Base",
+      "details": "Détails de l'Œuvre",
+      "commercial": "Informations Commerciales",
+      "tags": "Tags",
+      "description": "Description"
+    },
+    "fields": {
+      "title": "Titre",
+      "artist": "Artiste",
+      "description": "Description",
+      "year": "Année",
+      "price": "Prix ($)",
+      "medium": "Médium",
+      "dimensions": "Dimensions",
+      "location": "Localisation",
+      "tags": "Tags (séparés par des virgules)",
+      "status": "Statut"
+    },
+    "placeholders": {
+      "dimensions": "ex: 24 x 36 pouces",
+      "tags": "abstrait, moderne, coloré"
+    },
+    "success": "Œuvre mise à jour avec succès",
+    "error": "Erreur lors de la mise à jour de l'œuvre"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "subtitle": "Examinez l'historique des ventes et analysez l'équité des transactions",
+    "searchPlaceholder": "Rechercher des transactions...",
+    "tabs": {
+      "purchases": "Achats",
+      "sales": "Ventes"
+    },
+    "noTransactions": "Aucune transaction trouvée",
+    "columns": {
+      "artwork": "Œuvre",
+      "date": "Date",
+      "price": "Prix",
+      "status": "Statut",
+      "actions": "Actions"
+    },
+    "actions": {
+      "view": "Voir",
+      "edit": "Modifier",
+      "delete": "Supprimer"
+    }
+  },
+  "consignments": {
+    "title": "Consignations",
+    "subtitle": "Gérez les œuvres en consignation avec les galeries et artistes",
+    "noConsignments": "Aucune consignation trouvée",
+    "columns": {
+      "artwork": "Œuvre",
+      "gallery": "Galerie",
+      "startDate": "Date de Début",
+      "endDate": "Date de Fin",
+      "commission": "Commission",
+      "status": "Statut"
+    }
+  },
+  "reports": {
+    "title": "Rapports",
+    "subtitle": "Obtenez des insights sur les performances de la galerie",
+    "noReports": "Aucun rapport disponible"
+  },
+  "notFound": {
+    "title": "404 - Page Non Trouvée",
+    "subtitle": "La page que vous recherchez n'existe pas",
+    "backHome": "Retour à l'Accueil"
+  },
+  "language": {
+    "toggle": "Changer de langue",
+    "english": "English",
+    "french": "Français"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "clear": "Effacer",
+    "required": "Requis",
+    "optional": "Optionnel",
+    "actions": "Actions",
+    "status": "Statut",
+    "date": "Date",
+    "price": "Prix",
+    "title": "Titre",
+    "description": "Description",
+    "location": "Localisation",
+    "tags": "Tags",
+    "year": "Année",
+    "medium": "Médium",
+    "dimensions": "Dimensions",
+    "artist": "Artiste"
+  }
+}
